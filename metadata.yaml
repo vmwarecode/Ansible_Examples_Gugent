@@ -1,0 +1,7 @@
+name: "auto-generated-pkg-4376d4a0-89eb-49ac-9847-fd4b9f1efbba"
+productVersion: "7.0.1-SNAPSHOT"
+data:
+- locator: "composite-blueprint/Ansible_Examples_Gugent.yaml"
+  name: "Ansible_Examples_Gugent"
+  description: "Ansible_Examples_Gugent"
+exportTime: "2016-05-13T21:57:56.097Z"
